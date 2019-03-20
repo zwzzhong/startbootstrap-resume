@@ -69,19 +69,13 @@
         <div class="subheading mb-5">San Francisco, CA 94134 · (720) 421-8822 ·
           <a href="mailto:zwzzhong@ucdavis.edu">zwzzhong@ucdavis.edu</a>
         </div>
-        <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+        <p class="lead mb-5">A self-starter and quick learner. Versatile skill set with experience in data processing and customer services. Deep understanding of tourism industry, financial markets, taxation and trading policies in a data-driven way. Seeking to provide quantitative insights and optimize user experience as a Data Analyst.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/weizhen-zhong/">
             <i class="fab fa-linkedin-in"></i>
           </a>
-          <a href="#">
+          <a href="https://github.com/zwzzhong">
             <i class="fab fa-github"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-facebook-f"></i>
           </a>
         </div>
       </div>
@@ -95,12 +89,15 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Senior Web Developer</h3>
-            <div class="subheading mb-3">Intelitec Solutions</div>
-            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+            <h3 class="mb-0">Data Analyst, Practicum Project</h3>
+            <div class="subheading mb-3">Angel Flight West</div>
+            <p>• As part of UC Davis MSBA program, serving as project manager for a team of six students by organizing weekly meetings, coordinating different parties, and tracking group tasks status
+            • Manipulating 30 years of data and performing exploratory data analysis with MySQL
+            • Generating valuable insights via Tableau and presenting to different target audiences
+            • Applying Machine Learning algorithms with Python to assist pilot profiling process and increase annual mission counts of Angel Flight West.</p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">March 2013 - Present</span>
+            <span class="text-primary">Oct 2018 - Present</span>
           </div>
         </div>
 
